@@ -1,0 +1,12 @@
+Stats
+Inserting:
+Fastest: 0 Slowest: 4864000 Average: 567
+
+Lookup:
+Fastest: 2900 Slowest: 227100 Average: 4305
+
+Deleting by name:
+Fastest: 300 Slowest: 230900 Average: 3234
+
+Deleting by extension:
+Fastest: 2800 Slowest: 219500 Average: 5479
